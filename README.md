@@ -1,4 +1,4 @@
-![MasterHead]("https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
+![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 <h1 align="center">Hi 👋, I'm Amo</h1>
 <h3 align="center">A passionate Computer Science from Romania</h3>
 
