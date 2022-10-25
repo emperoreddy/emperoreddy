@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x74wkst2n938g3rnfce99f0xh369e7douqf9wxev&rid=giphy.gif&ct=g"</h1>
-<h1 align="center">Hi 👋, I'm Amo</h1>
+<h1 align="center">Hi 👋, I'm Amortitu Bogdan</h1>
 <h3 align="center">A passionate Computer Science student from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoreddy&label=Profile%20views&color=0e75b6&style=flat" alt="emperoreddy" /> </p>
