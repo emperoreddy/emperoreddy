@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [a Twitter Bot](https://github.com/emperoreddy/Twitter-Bot)
 
-- 🌱 I’m currently learning **Backend, Flask, Oracle SQL**
+- 🌱 I’m currently learning **ORACLE SQL, Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emperoreddy?tab=repositories](https://github.com/emperoreddy?tab=repositories)
 
