@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/emperoreddy?tab=repositories](https://github.com/emperoreddy?tab=repositories)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, FrontEnd**
 
 - 📫 How to reach me **a.bogdanandrei19@gmail.com**
 
