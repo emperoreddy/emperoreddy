@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoreddy&label=Profile%20views&color=0e75b6&style=flat" alt="emperoreddy" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/emperoreddy/Twitter-Bot)
+- 🔭 I’m currently working on [Dorm Review](https://github.com/emperoreddy/Twitter-Bot)
 
-- 🌱 I’m currently learning **Web Dev, Django**
+- 🌱 I’m currently learning **Web Dev, Back-end**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emperoreddy?tab=repositories](https://github.com/emperoreddy?tab=repositories)
 
