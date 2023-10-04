@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperoreddy&label=Profile%20views&color=0e75b6&style=flat" alt="emperoreddy" /> </p>
 
-- 🔭 I’m currently working on [Dorm Review](https://github.com/emperoreddy/Twitter-Bot)
+- 🔭 I’m currently working on [Realtime Chat App](https://github.com/emperoreddy/RealtimeChatApp)
 
 - 🌱 I’m currently learning **Web Dev, Back-end**
 
